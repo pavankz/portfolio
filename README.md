@@ -8,7 +8,7 @@
 - B.Tech., Civil   | RGUKT Basar, 2024 
 
 ## Work Experience
-**Climate & Data Analysis Intern @ Dygnify Pvt.Ltd** 
+**Climate & Data Analysis Intern | Dygnify Pvt.Ltd** 
 
 Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
