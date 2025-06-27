@@ -1,11 +1,11 @@
-# PhD Student
+# PhD Student | ARTS Programme | Indo-French Cell
 
-**Research Area:** Spatial Hydrology, Remote Sensing
+**Research Area:** Spatial Hydrology & Remote Sensing
 
 ## Education
-- Ph.D., CESBIO  | IRD, France, 2029							       		
-- M.Tech., CAOS  | IISc Bangalore, 2025	 			        		
-- B.Tech., Civil | RGUKT Basar, 2024 
+- Ph.D., CESBIO    | IRD, France, 2028					       		
+- M.Tech., CAOS    | IISc Bangalore, 2025	 			        		
+- B.Tech., Civil   | RGUKT Basar, 2024 
 
 ## Work Experience
 **Climate & Data Analysis Intern @ Dygnify Pvt.Ltd** 
@@ -33,11 +33,11 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 - **Frameworks**       | PyTorch, Tensorflow, LangChain, Xarray, Geopandas, Leaflet
 - **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
 
-  ## Training and Workshops
-  - **Graph Theory and Machine Learning: From Fundamentals to Advances Applications**
-  - **Training on Glacier studies and Remote Sensing**
-  - **Microwave Remote Sensing in Hydrology**
-  - **Developing Research Writing and Speaking Skills**
+## Training and Workshops
+- **Graph Theory and Machine Learning: From Fundamentals to Advances Applications**
+- **Training on Glacier studies and Remote Sensing**
+- **Microwave Remote Sensing in Hydrology**
+- **Developing Research Writing and Speaking Skills**
 
 ## Online Courses & Certifications
 - The Big Data Analysis for Water-Related Applications from United Nations University (2024)
