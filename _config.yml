@@ -1,5 +1,5 @@
-title: Pavan Kumar Amgoth
-logo: https://github.com/pavankz/portfolio/blob/main/assests/Img/headshot_circle.jpg
+title: Pavan Kumar
+logo: /assests/Img/headshot_circle.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
