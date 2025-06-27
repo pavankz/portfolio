@@ -16,19 +16,27 @@ Developed scalable geospatial pipelines using Google Earth Engine, Python, and G
 
 ### [Land use dynamics and correlation between biophysical indices and LST in GHMC, Telangana](https://github.com/pavankz/Land-use-dynamics-and-correlation-between-biophysical-indices-and-Land-Surface-Temperature)
 Analyzed 35 years (1988–2022) of urban growth in GHMC using Landsat data to assess land use change, biophysical indices, and their impact on Land Surface Temperature (LST). Findings reveal urban expansion led to vegetation loss and LST rise, with vegetation indices negatively and urban indices positively correlating with LST.
+
+
 ![GHMC LULC](/assests/Img/land_use_dynamics.png)
 
 ### [Albedo effect estimation through IGC irrigation system implementation using Google Earth Engine](https://github.com/pavankz/Estimating-Albedo-effect-manipulation-by-the-implementation-of-IGC-irrigation-system)
 This study investigates the climatic impact of the Indira Gandhi Canal in Bikaner, Rajasthan, from 1990 to 2024 using Landsat, CHIRPS, and TRMM datasets within Google Earth Engine. It analyzes the relationship between albedo, LST, NDVI, and land use changes through classification and statistical correlation techniques.
+
+
 ![Albedo Change and LULC](/assests/Img/albedo_lulc.jpg)
 
 ## AI/ML Projects
 ### [Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
 Developed an ML pipeline using Google Street View imagery to assess building integrity and classify seismic vulnerability. Fine-tuned YOLOv8n and ResNet50 with advanced training techniques, securing 2nd place in a Kaggle competition with top F1-score and IoU.
+
+
 ![Building Classification](/assests/Img/safe_building.jpg)
 
 ### [Advanced Hyperspectral Vegetation Mapping with PCA-SVM-RF Hybrid Pipeline](https://github.com/pavankz/Enhancing-Vegetation-Classification-through-hyperspectral-remote-sensing)
 Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate classification of hyperspectral imagery from the Indiana Pines dataset. Achieved high accuracy and efficiency over CNNs and k-NN through optimized dimensionality reduction with PCA and LDA.
+
+
 ![Image Classification](/assests/Img/hyperspectral_classification.jpg)
 
 ## Skills
