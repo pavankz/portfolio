@@ -5,8 +5,8 @@
 
 ## Education
 - Ph.D., CESBIO | IRD, France, 2029							       		
-- M.Tech., CAOS | IISc, 2025	 			        		
-- B.Tech., Civil | RGUKT, 2024 
+- M.Tech., CAOS | IISc Bangalore, 2025	 			        		
+- B.Tech., Civil | RGUKT Basar, 2024 
 
 ## Work Experience
 **Climate & Data Analysis Intern @ Dygnify Pvt.Ltd** 
