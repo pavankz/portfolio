@@ -1,24 +1,48 @@
 # PhD Student
 
 #### Research Area: Spatial Hydrology, Remote Sensing
-#### Skills: AI/ML, Python, Google Earth Engine, Quantum GIS, Image & Signal Processing
 
 ## Education
-- Ph.D., CESBIO | IRD, France, 2029							       		
-- M.Tech., CAOS | IISc Bangalore, 2025	 			        		
+- Ph.D., CESBIO  | IRD, France, 2029							       		
+- M.Tech., CAOS  | IISc Bangalore, 2025	 			        		
 - B.Tech., Civil | RGUKT Basar, 2024 
 
 ## Work Experience
 **Climate & Data Analysis Intern @ Dygnify Pvt.Ltd** 
 Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
-## Projects
-### [Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
+## Academic Projects
 
+
+### [Land use dynamics and correlation between biophysical indices and LST in GHMC, Telangana](https://github.com/pavankz/Land-use-dynamics-and-correlation-between-biophysical-indices-and-Land-Surface-Temperature)
+Analyzed 35 years (1988–2022) of urban growth in GHMC using Landsat data to assess land use change, biophysical indices, and their impact on Land Surface Temperature (LST). Findings reveal urban expansion led to vegetation loss and LST rise, with vegetation indices negatively and urban indices positively correlating with LST.
+
+### [Albedo effect estimation through IGC irrigation system implementation using Google Earth Engine](https://github.com/pavankz/Estimating-Albedo-effect-manipulation-by-the-implementation-of-IGC-irrigation-system)
+This study investigates the climatic impact of the Indira Gandhi Canal in Bikaner, Rajasthan, from 1990 to 2024 using Landsat, CHIRPS, and TRMM datasets within Google Earth Engine. It analyzes the relationship between albedo, LST, NDVI, and land use changes through classification and statistical correlation techniques.
+
+## AI/ML Projects
+### [Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
 Developed an ML pipeline using Google Street View imagery to assess building integrity and classify seismic vulnerability. Fine-tuned YOLOv8n and ResNet50 with advanced training techniques, securing 2nd place in a Kaggle competition with top F1-score and IoU.
 
-## Interests
+### [Advanced Hyperspectral Vegetation Mapping with PCA-SVM-RF Hybrid Pipeline](https://github.com/pavankz/Enhancing-Vegetation-Classification-through-hyperspectral-remote-sensing)
+Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate classification of hyperspectral imagery from the Indiana Pines dataset. Achieved high accuracy and efficiency over CNNs and k-NN through optimized dimensionality reduction with PCA and LDA.
 
+## Skills
+- **Programming**      | Python, Julia
+- **Developer Tools**  | Jupyter, Visual Studio, Curser, Atom
+- **Frameworks**       | PyTorch, Tensorflow, LangChain, Xarray, Geopandas, Leaflet
+- **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
 
-## Extra Curricular
+  ## Training and Workshops
+  **Graph Theory and Machine Learning: From Fundamentals to Advances Applications**
+  **Training on Glacier studies and Remote Sensing**
+  **Microwave Remote Sensing in Hydrology**
+  **Developing Research Writing and Speaking Skills**
+
+## Online Courses & Certifications
+- The Big Data Analysis for Water-Related Applications from United Nations University (2024)
+- Spatial Data Management with Google Earth Engine from United Nations University (2024)
+- Python for Data Science and Machine Learning Bootcamp from Udemy (2023)
+- Google Earth Engine for Machine Learning & Change Detection from Udemy (2023)
+- Geospatial Analysis using Google Earth Engine from Indian Institute of Remote Sensing, ISRO (2023)
 
