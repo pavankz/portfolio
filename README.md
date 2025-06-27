@@ -9,10 +9,10 @@
 
 ## Work Experience
 **Climate & Data Analysis Intern @ Dygnify Pvt.Ltd** 
+
 Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
 ## Academic Projects
-
 
 ### [Land use dynamics and correlation between biophysical indices and LST in GHMC, Telangana](https://github.com/pavankz/Land-use-dynamics-and-correlation-between-biophysical-indices-and-Land-Surface-Temperature)
 Analyzed 35 years (1988–2022) of urban growth in GHMC using Landsat data to assess land use change, biophysical indices, and their impact on Land Surface Temperature (LST). Findings reveal urban expansion led to vegetation loss and LST rise, with vegetation indices negatively and urban indices positively correlating with LST.
