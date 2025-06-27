@@ -1,6 +1,6 @@
 # PhD Student
 
-#### Research Area: Spatial Hydrology, Remote Sensing
+**Research Area:** Spatial Hydrology, Remote Sensing
 
 ## Education
 - Ph.D., CESBIO  | IRD, France, 2029							       		
