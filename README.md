@@ -12,6 +12,12 @@
 
 Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
+## Skills
+- **Programming**      | Python, Julia
+- **Developer Tools**  | Jupyter, Visual Studio, Curser, Atom
+- **Frameworks**       | PyTorch, Tensorflow, LangChain, Xarray, Geopandas, Leaflet
+- **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
+
 ## Academic Projects
 
 ### [Land use dynamics and correlation between biophysical indices and LST in GHMC, Telangana](https://github.com/pavankz/Land-use-dynamics-and-correlation-between-biophysical-indices-and-Land-Surface-Temperature)
@@ -39,11 +45,6 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 
 ![Image Classification](/assests/Img/hyperspectral_classification.jpg)
 
-## Skills
-- **Programming**      | Python, Julia
-- **Developer Tools**  | Jupyter, Visual Studio, Curser, Atom
-- **Frameworks**       | PyTorch, Tensorflow, LangChain, Xarray, Geopandas, Leaflet
-- **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
 
 ## Training and Workshops
 - Graph Theory and Machine Learning: From Fundamentals to Advances Applications, CDS, IISc
