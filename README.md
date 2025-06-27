@@ -38,10 +38,10 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 - **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
 
 ## Training and Workshops
-- **Graph Theory and Machine Learning: From Fundamentals to Advances Applications**
-- **Training on Glacier studies and Remote Sensing**
-- **Microwave Remote Sensing in Hydrology**
-- **Developing Research Writing and Speaking Skills**
+- Graph Theory and Machine Learning: From Fundamentals to Advances Applications, CDS, IISc
+- Training on Glacier studies and Remote Sensing, DCCC, IISc
+- Microwave Remote Sensing in Hydrology, University of Florida
+- Developing Research Writing and Speaking Skills, N.C State University
 
 ## Online Courses & Certifications
 - The Big Data Analysis for Water-Related Applications from United Nations University (2024)
