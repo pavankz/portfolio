@@ -5,7 +5,7 @@
 
 ## Education
 - Ph.D., CESBIO | IRD, France, 2029							       		
-- M.Tech., Climate & Earth Science | IISc, 2025	 			        		
+- M.Tech., CAOS | IISc, 2025	 			        		
 - B.Tech., Civil | RGUKT, 2024 
 
 ## Work Experience
