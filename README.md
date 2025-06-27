@@ -1,4 +1,4 @@
-# PhD Student | ARTS Programme | Indo-French Cell
+# PhD Student | Indo-French Cell
 
 **Research Area:** Spatial Hydrology & Remote Sensing
 
