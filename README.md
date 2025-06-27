@@ -1,35 +1,27 @@
-# Data Scientist
+# PhD Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Area: Spatial Hydrology, Remote Sensing
+#### Skills: Python, Google Earth Engine, AI/ML, QGIS
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., CESBIO | Institut de Recherche pour le Développement (IRD), France (_August 2029_)								       		
+- M.Tech., Climate & Earth Science	| Indian Institute of Science, Bangalore (_May 2025_)	 			        		
+- B.Tech., Civil | Rajiv Gandhi University of Knowledge Technologies, Basar(_May 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Climate & Data Analysis Intern @ Dygnify Pvt.Ltd (_Jan 2025 - Feb 2025_)**
+- Processed and analyzed geospatial datasets for climate resilience initiatives. Developed an automated flood risk assessment pipeline using Google Earth Engine and Python API, enabling scalable predictions across India.
+- Conducted remote sensing analysis to compute Heat Stress Indices, integrating meteorological data for heatwave forecasting with statistical modeling and time-series analysis.
+- Optimized large-scale geospatial workflows using Google Cloud Services for efficient data management. Applied machine learning for predictive modeling, enhancing climate risk projections. 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ![Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed and deployed an ML pipeline using Google Street View imagery to assess building integrity and classify seismic vulnerability. Implemented YOLOv8n for real-time object detection and fine-tuned YOLOv8n-cls and ResNet50 for multi-class classification, optimizing with transfer learning and cross-validation. Leveraged PyTorch and TensorFlow with mixed-precision training and gradient clipping for efficient GPU utilization. Applied PCA and t-SNE for feature extraction and dimensionality reduction. Secured 2nd place in a Kaggle competition with a top-tier F1-score and IoU, demonstrating the model’s scalability in seismic risk assessment. 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
