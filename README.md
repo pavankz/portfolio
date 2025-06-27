@@ -14,9 +14,9 @@ Developed scalable geospatial pipelines using Google Earth Engine, Python, and G
 
 ## Skills
 - **Programming**      | Python, Julia
-- **Developer Tools**  | Jupyter, Visual Studio, Curser, Atom
-- **Frameworks**       | PyTorch, Tensorflow, LangChain, Xarray, Geopandas, Leaflet
-- **Technical Skills** | Data Mining, ML, Deep Learning, Image & Signal processing
+- **Developer Tools**  | Jupyter, Visual Studio, Cursor, Atom
+- **Frameworks**       | PyTorch, Xarray, Geopandas, Leaflet
+- **Technical skills** | AI/ML, Image & Signal processing
 
 ## Academic Projects
 
