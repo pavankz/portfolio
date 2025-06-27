@@ -1,27 +1,21 @@
 # PhD Student
 
 #### Research Area: Spatial Hydrology, Remote Sensing
-#### Skills: Python, Google Earth Engine, AI/ML, QGIS
+#### Skills: AI/ML, Python, Google Earth Engine, Quantum GIS, Image & Signal Processing
 
 ## Education
-- Ph.D., CESBIO | Institut de Recherche pour le Développement (IRD), France (_August 2029_)								       		
-- M.Tech., Climate & Earth Science	| Indian Institute of Science, Bangalore (_May 2025_)	 			        		
-- B.Tech., Civil | Rajiv Gandhi University of Knowledge Technologies, Basar(_May 2023_)
+- Ph.D., CESBIO | IRD, France, 2029							       		
+- M.Tech., Climate & Earth Science | IISc, 2025	 			        		
+- B.Tech., Civil | RGUKT, 2024 
 
 ## Work Experience
 **Climate & Data Analysis Intern @ Dygnify Pvt.Ltd (_Jan 2025 - Feb 2025_)**
-- Processed and analyzed geospatial datasets for climate resilience initiatives. Developed an automated flood risk assessment pipeline using Google Earth Engine and Python API, enabling scalable predictions across India.
-- Conducted remote sensing analysis to compute Heat Stress Indices, integrating meteorological data for heatwave forecasting with statistical modeling and time-series analysis.
-- Optimized large-scale geospatial workflows using Google Cloud Services for efficient data management. Applied machine learning for predictive modeling, enhancing climate risk projections. 
+Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
 ## Projects
-### ![Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
+### [Are you in a safe building?](https://github.com/pavankz/Building_Classification_with_YOLO)
 
 Developed and deployed an ML pipeline using Google Street View imagery to assess building integrity and classify seismic vulnerability. Implemented YOLOv8n for real-time object detection and fine-tuned YOLOv8n-cls and ResNet50 for multi-class classification, optimizing with transfer learning and cross-validation. Leveraged PyTorch and TensorFlow with mixed-precision training and gradient clipping for efficient GPU utilization. Applied PCA and t-SNE for feature extraction and dimensionality reduction. Secured 2nd place in a Kaggle competition with a top-tier F1-score and IoU, demonstrating the model’s scalability in seismic risk assessment. 
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
