@@ -10,9 +10,9 @@
 ## Work Experience
 **Junior Research Fellow | ICWaR, IISc**
 
-Developing a Storage Budget Framework using GRACE and GRACE-FO satellite data to analyse terrestrial water storage changes and their hydrological components across global basins. I work extensively with remote sensing datasets, hydrological time series, and uncertainty analysis, integrating baseflow, transpiration, and satellite-derived storage anomalies.
+Developing a Storage Budget Framework using GRACE and GRACE-FO satellite data to analyse terrestrial water storage changes and their hydrological components across global basins.
 
-**Climate & Data Analysis Intern | Dygnify Pvt.Ltd** 
+**Climate & Data Analysis Intern | Dygnify Pvt.Ltd**
 
 Developed scalable geospatial pipelines using Google Earth Engine, Python, and Google Cloud to assess flood risk and forecast heatwaves across India. Integrated remote sensing, meteorological data, and machine learning for climate resilience modeling.
 
