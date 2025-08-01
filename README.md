@@ -64,3 +64,16 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 - Google Earth Engine for Machine Learning & Change Detection from Udemy (2023)
 - Geospatial Analysis using Google Earth Engine from Indian Institute of Remote Sensing, ISRO (2023)
 
+### Connect with me
+
+<a href="mailto:amgothpavankumaar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-amgothpavankumaar@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/pavankamgoth" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-pavankamgoth-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/pavankumar-amgoth/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-pavankumar--amgoth-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
