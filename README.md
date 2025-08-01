@@ -71,7 +71,7 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 </a>
 
 <a href="https://github.com/pavankamgoth" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-pavankamgoth-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-pavankz-181717?style=flat&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/pavankumar-amgoth/" target="_blank">
