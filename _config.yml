@@ -4,3 +4,17 @@ description:   Applying AI for Environment & Society
 show_downloads: true
 theme: jekyll-theme-minimal
 
+# Social links
+email: amgothpavankumaar@gmail.com
+github: pavankamgoth
+linkedin: pavankumar-amgoth
+
+# Optional: add links to appear as icons in the navbar/footer
+social_links:
+  - name: Email
+    url: mailto:amgothpavankumaar@gmail.com
+  - name: GitHub
+    url: https://github.com/pavankamgoth
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/pavankumar-amgoth/
+
