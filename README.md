@@ -63,3 +63,21 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 - Python for Data Science and Machine Learning Bootcamp from Udemy (2023)
 - Google Earth Engine for Machine Learning & Change Detection from Udemy (2023)
 - Geospatial Analysis using Google Earth Engine from Indian Institute of Remote Sensing, ISRO (2023)
+
+
+### Reach out
+
+<!-- GitHub -->
+<a href="https://github.com/pavankz" target="_blank" style="margin-right: 15px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
+</a>
+
+<!-- Gmail -->
+<a href="mailto:amgothpavankumaar@gmail.com" target="_blank" style="margin-right: 15px;">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="40" height="40">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/pavankumar-amgoth/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
