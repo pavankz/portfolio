@@ -65,7 +65,7 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 - Geospatial Analysis using Google Earth Engine from Indian Institute of Remote Sensing, ISRO (2023)
 
 
-### Reach out
+### Contact me
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
