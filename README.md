@@ -68,12 +68,12 @@ Designed an ML framework using PCA-enhanced SVM and Random Forest for accurate c
 ### Reach out
 
 <!-- GitHub -->
-<a href="https://github.com/pavankz" target="_blank" style="margin-right: 15px;">
+<a href="https://github.com/pavankz" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40">
 </a>
 
 <!-- Gmail -->
-<a href="mailto:amgothpavankumaar@gmail.com" target="_blank" style="margin-right: 15px;">
+<a href="mailto:amgothpavankumaar@gmail.com" target="_blank">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="40" height="40">
 </a>
 
